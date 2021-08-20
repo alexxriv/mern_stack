@@ -41,9 +41,9 @@ function App() {
           </li>
           <li className="nav-item">
             { user ? (
-              <button onClick={logout} className="nav-link" style={{cursor: 'pointer'}}>
+              <a onClick={logout} className="nav-link" style={{cursor: 'pointer'}}>
                 Logout {user.name}  
-              </button>
+              </a>
             ): (
               <Link to={"/login"} className="nav-link">
                 Login
