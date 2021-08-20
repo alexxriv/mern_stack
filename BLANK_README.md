@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** alexxriv, mern-stack, @, alex.trrzrivera@gmail.com, Full Stack Mern Project, Full stack app using MongoDB Atlas, Express.js, React and Node.js
+*** alexxriv, mern_stack, @, criptoeconomiaorg@protonmail.com, Full Stack Mern Project, Full stack app using MongoDB Atlas, Express.js, React and Node.js
 -->
 
 
@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/alexxriv/mern-stack">
+  <a href="https://github.com/alexxriv/mern_stack">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -41,14 +41,14 @@
   <p align="center">
     Full stack app using MongoDB Atlas, Express.js, React and Node.js
     <br />
-    <a href="https://github.com/alexxriv/mern-stack"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alexxriv/mern_stack"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/alexxriv/mern-stack">View Demo</a>
+    <a href="https://github.com/alexxriv/mern_stack">View Demo</a>
     ·
-    <a href="https://github.com/alexxriv/mern-stack/issues">Report Bug</a>
+    <a href="https://github.com/alexxriv/mern_stack/issues">Report Bug</a>
     ·
-    <a href="https://github.com/alexxriv/mern-stack/issues">Request Feature</a>
+    <a href="https://github.com/alexxriv/mern_stack/issues">Request Feature</a>
   </p>
 </p>
 
@@ -89,7 +89,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`alexxriv`, `mern-stack`, `@`, `alex.trrzrivera@gmail.com`, `Full Stack Mern Project`, `Full stack app using MongoDB Atlas, Express.js, React and Node.js`
+`alexxriv`, `mern_stack`, `@`, `criptoeconomiaorg@protonmail.com`, `Full Stack Mern Project`, `Full stack app using MongoDB Atlas, Express.js, React and Node.js`
 
 
 ### Built With
@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/alexxriv/mern-stack.git
+   git clone https://github.com/alexxriv/mern_stack.git
    ```
 2. Install NPM packages
    ```sh
@@ -138,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/alexxriv/mern-stack/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/alexxriv/mern_stack/issues) for a list of proposed features (and known issues).
 
 
 
@@ -165,9 +165,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@@](https://twitter.com/@) - alex.trrzrivera@gmail.com
+Your Name - [@@](https://twitter.com/@) - criptoeconomiaorg@protonmail.com
 
-Project Link: [https://github.com/alexxriv/mern-stack](https://github.com/alexxriv/mern-stack)
+Project Link: [https://github.com/alexxriv/mern_stack](https://github.com/alexxriv/mern_stack)
 
 
 
@@ -185,14 +185,14 @@ Project Link: [https://github.com/alexxriv/mern-stack](https://github.com/alexxr
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/alexxriv/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/alexxriv/mern-stack/graphs/contributors
+[contributors-url]: https://github.com/alexxriv/mern_stack/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/alexxriv/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/alexxriv/mern-stack/network/members
+[forks-url]: https://github.com/alexxriv/mern_stack/network/members
 [stars-shield]: https://img.shields.io/github/stars/alexxriv/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/alexxriv/mern-stack/stargazers
+[stars-url]: https://github.com/alexxriv/mern_stack/stargazers
 [issues-shield]: https://img.shields.io/github/issues/alexxriv/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/alexxriv/mern-stack/issues
+[issues-url]: https://github.com/alexxriv/mern_stack/issues
 [license-shield]: https://img.shields.io/github/license/alexxriv/repo.svg?style=for-the-badge
-[license-url]: https://github.com/alexxriv/mern-stack/blob/master/LICENSE.txt
+[license-url]: https://github.com/alexxriv/mern_stack/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alexxriv
