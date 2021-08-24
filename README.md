@@ -1,5 +1,5 @@
 # Mern_Stack
-## Full stack app using MongoDB as a Database, Express.js and Nodejs for Backend and React for Frontend.
+## Full stack app using <strong>MongoDB</strong> as a Database, <strong>Express.js and Nodejs</strong> for Backend and <strong>React</strong> for Frontend.
 
 
 ## CRUD APP (Create, Read, Update, Delete)
