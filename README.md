@@ -20,3 +20,7 @@
 (To delete a review you will need to be __logged in with same User and ID__ from which the review was added)
 
 #### This App was uploaded to a Vultr Server, using __Nginx__ as Proxy Server.
+
+
+--alexriiv
+
